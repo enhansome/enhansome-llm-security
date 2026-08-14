@@ -19,7 +19,7 @@
             "last_commit": "2024-08-02T06:02:18Z",
             "owner": "llm-attacks",
             "repo": "llm-attacks",
-            "stars": 4763
+            "stars": 4762
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-12-27T17:22:44Z",
             "owner": "vec2text",
             "repo": "vec2text",
-            "stars": 1133
+            "stars": 1132
           }
         },
         {
@@ -107,7 +107,7 @@
             "archived": false,
             "language": "Python",
             "last_commit": "2026-02-27T17:19:03Z",
-            "owner": "sherdencooper",
+            "owner": "hubertyoo",
             "repo": "GPTFuzz",
             "stars": 604
           }
@@ -283,7 +283,7 @@
             "last_commit": "2025-07-24T13:07:49Z",
             "owner": "pasquini-dario",
             "repo": "LLMmap",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 742
+            "stars": 744
           }
         },
         {
@@ -480,10 +480,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T20:23:44Z",
+            "last_commit": "2026-08-13T21:11:21Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8791
+            "stars": 8796
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-06T15:21:49Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4346
+            "stars": 4348
           }
         },
         {
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:41:09.809Z",
+    "last_updated": "2026-08-14T10:36:56.155Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
