@@ -19,7 +19,7 @@
             "last_commit": "2024-08-02T06:02:18Z",
             "owner": "llm-attacks",
             "repo": "llm-attacks",
-            "stars": 4762
+            "stars": 4759
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-02-23T21:19:44Z",
             "owner": "LLM-Tuning-Safety",
             "repo": "LLMs-Finetuning-Safety",
-            "stars": 358
+            "stars": 357
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2025-09-02T09:32:44Z",
             "owner": "NJUNLP",
             "repo": "ReNeLLM",
-            "stars": 163
+            "stars": 162
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2025-01-21T05:52:32Z",
             "owner": "GodXuxilie",
             "repo": "PromptAttack",
-            "stars": 117
+            "stars": 116
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 744
+            "stars": 748
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2025-04-04T11:30:46Z",
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 651
+            "stars": 652
           }
         },
         {
@@ -480,10 +480,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:11:21Z",
+            "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8796
+            "stars": 8808
           }
         },
         {
@@ -494,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T15:21:49Z",
+            "last_commit": "2026-08-14T20:51:28Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4348
+            "stars": 4350
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2024-08-07T23:35:48Z",
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1519
+            "stars": 1520
           }
         },
         {
@@ -539,7 +539,7 @@
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1030
+            "stars": 1034
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2024-02-12T07:22:56Z",
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 373
+            "stars": 376
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2025-10-31T09:51:10Z",
             "owner": "Repello-AI",
             "repo": "whistleblower",
-            "stars": 171
+            "stars": 174
           }
         },
         {
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:36:56.155Z",
+    "last_updated": "2026-08-15T09:54:38.566Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
