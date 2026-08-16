@@ -29,7 +29,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### White-box attack
 
-* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,759 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
+* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,761 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
 * "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [\[repo\]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) ⭐ 282 | 🐛 24 | 🌐 Python | 📅 2024-05-13
 * "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [\[paper\]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [\[repo\]](https://github.com/XuandongZhao/weak-to-strong) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2025-05-02
 * "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [\[repo\]](https://github.com/euanong/image-hijacks) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2023-09-19 [\[site\]](https://image-hijacks.github.io)
@@ -106,23 +106,23 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Benchmark
 
-* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 748 | 🐛 41 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
-* "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 652 | 🐛 12 | 🌐 Python | 📅 2025-04-04
+* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 749 | 🐛 41 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
+* "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 654 | 🐛 12 | 🌐 Python | 📅 2025-04-04
 * "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [\[paper\]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 477 | 🐛 14 | 🌐 Python | 📅 2025-10-29
 * "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [\[paper\]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 8,808 | 🐛 382 | 🌐 Python | 📅 2026-08-14: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,350 | 🐛 81 | 🌐 Python | 📅 2026-08-14: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 8,820 | 🐛 386 | 🌐 Python | 📅 2026-08-14: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,352 | 🐛 81 | 🌐 Python | 📅 2026-08-14: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
-* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,034 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,036 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 * [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) ⭐ 703 | 🐛 20 | 🌐 Python | 📅 2026-02-16: the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
-* [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 496 | 🐛 16 | 🌐 Python | 📅 2024-01-31: a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
+* [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 495 | 🐛 16 | 🌐 Python | 📅 2024-01-31: a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 * [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 477 | 🐛 14 | 🌐 Python | 📅 2025-10-29: open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
-* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 376 | 🐛 3 | 🌐 Python | 📅 2024-02-12: a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
-* [WhistleBlower](https://github.com/Repello-AI/whistleblower) ⭐ 174 | 🐛 13 | 🌐 Python | 📅 2025-10-31: open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
+* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 377 | 🐛 3 | 🌐 Python | 📅 2024-02-12: a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
+* [WhistleBlower](https://github.com/Repello-AI/whistleblower) ⭐ 177 | 🐛 13 | 🌐 Python | 📅 2025-10-31: open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 * [Plexiglass](https://github.com/kortex-labs/plexiglass) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2026-02-04: a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 * [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-11-04: an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
 * [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
@@ -175,4 +175,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
