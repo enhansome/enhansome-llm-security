@@ -81,7 +81,7 @@
             "last_commit": "2025-12-27T17:22:44Z",
             "owner": "vec2text",
             "repo": "vec2text",
-            "stars": 1132
+            "stars": 1133
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 477
+            "stars": 479
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2025-07-24T13:07:49Z",
             "owner": "pasquini-dario",
             "repo": "LLMmap",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2024-04-15T02:08:17Z",
             "owner": "microsoft",
             "repo": "BIPIA",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 749
+            "stars": 753
           }
         },
         {
@@ -463,7 +463,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 477
+            "stars": 479
           }
         }
       ],
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8820
+            "stars": 8834
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-14T20:51:28Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4352
+            "stars": 4355
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2024-01-31T18:43:41Z",
             "owner": "deadbits",
             "repo": "vigil-llm",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -581,7 +581,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 477
+            "stars": 479
           }
         },
         {
@@ -699,7 +699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:55:48.628Z",
+    "last_updated": "2026-08-17T10:07:50.698Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
