@@ -301,7 +301,7 @@
                 "last_commit": "2025-07-24T13:07:49Z",
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 426
+                "stars": 427
               }
             },
             {
@@ -469,7 +469,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 757
+            "stars": 758
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-17T22:54:09Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8857
+            "stars": 8860
           }
         },
         {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 735087691,
             "language": "Python",
-            "last_commit": "2026-08-18T17:58:03Z",
+            "last_commit": "2026-08-19T11:31:23Z",
             "owner": "prompt-security",
             "repo": "ps-fuzz",
             "stars": 703
@@ -744,8 +744,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:02:07.332Z",
+    "last_updated": "2026-08-19T12:37:54.335Z",
     "original_repository": "corca-ai/awesome-llm-security",
+    "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
     "enhanced_repository_description": null,
