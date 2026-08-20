@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-02T06:02:18Z",
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4761
+                "stars": 4763
               }
             },
             {
@@ -469,7 +469,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 758
+            "stars": 759
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2025-04-04T11:30:46Z",
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -517,10 +517,10 @@
             "archived": false,
             "id": 639097338,
             "language": "Python",
-            "last_commit": "2026-08-17T22:54:09Z",
+            "last_commit": "2026-08-19T19:50:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8860
+            "stars": 8873
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4358
+            "stars": 4360
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1038
+            "stars": 1039
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2026-08-19T11:31:23Z",
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:37:54.335Z",
+    "last_updated": "2026-08-20T10:04:10.186Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
