@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-02T06:02:18Z",
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4763
+                "stars": 4762
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2025-07-24T13:07:49Z",
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 427
+                "stars": 429
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2024-07-11T04:21:11Z",
                 "owner": "cnut1648",
                 "repo": "Model-Fingerprint",
-                "stars": 52
+                "stars": 51
               }
             },
             {
@@ -469,7 +469,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 759
+            "stars": 761
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-19T19:50:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8873
+            "stars": 8883
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4360
+            "stars": 4361
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-13T13:58:22Z",
             "owner": "mik0w",
             "repo": "pallms",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:04:10.186Z",
+    "last_updated": "2026-08-21T10:03:48.943Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
