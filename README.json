@@ -84,7 +84,7 @@
                 "last_commit": "2025-12-27T17:22:44Z",
                 "owner": "vec2text",
                 "repo": "vec2text",
-                "stars": 1133
+                "stars": 1136
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-10-29T17:11:34Z",
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 480
+                "stars": 481
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-06-07T14:55:51Z",
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 341
+                "stars": 342
               }
             },
             {
@@ -469,7 +469,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 762
+            "stars": 765
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 480
+            "stars": 481
           }
         }
       ],
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-21T14:25:03Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8903
+            "stars": 8997
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4361
+            "stars": 4365
           }
         },
         {
@@ -550,7 +550,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3201
+            "stars": 3202
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1040
+            "stars": 1042
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 480
+            "stars": 481
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:55:46.029Z",
+    "last_updated": "2026-08-24T10:20:32.253Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
