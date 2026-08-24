@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-27T17:19:03Z",
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
-                "stars": 604
+                "stars": 603
               }
             },
             {
@@ -291,6 +291,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "\"Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection\", 2023-07, NAACL 24, [paper]",
+              "description": "[repo] [site]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706912254,
+                "language": "Python",
+                "last_commit": "2024-07-06T09:55:50Z",
+                "owner": "wegodev2",
+                "repo": "virtual-prompt-injection",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Backdoor attack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "\"LLMmap: Fingerprinting For Large Language Models\", 2024-07, [paper]",
               "description": "[repo]",
               "children": [],
@@ -301,7 +323,7 @@
                 "last_commit": "2025-07-24T13:07:49Z",
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 433
+                "stars": 434
               }
             },
             {
@@ -450,6 +472,28 @@
           "description": null,
           "node_type": "group",
           "title": "Defense"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins\", 2023-09, [paper]",
+              "description": "[repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690129930,
+                "language": "HTML",
+                "last_commit": "2024-07-29T23:26:59Z",
+                "owner": "llm-platform-security",
+                "repo": "chatgpt-plugin-eval",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Platform Security"
         }
       ],
       "title": "Papers"
@@ -484,7 +528,7 @@
             "last_commit": "2025-04-04T11:30:46Z",
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 656
+            "stars": 657
           }
         },
         {
@@ -520,7 +564,7 @@
             "last_commit": "2026-08-21T14:25:03Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8997
+            "stars": 9005
           }
         },
         {
@@ -535,7 +579,7 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4365
+            "stars": 4364
           }
         },
         {
@@ -744,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:20:32.253Z",
+    "last_updated": "2026-08-24T14:10:03.035Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",

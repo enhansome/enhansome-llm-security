@@ -41,7 +41,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 * "Language Model Inversion", 2023-11, ICLR(poster) 24, [\[paper\]](https://www.themoonlight.io/paper/share/d0615bef-03b4-4e2b-8bff-1b19e15c0056) [\[repo\]](https://github.com/jxmorris12/vec2text) ⭐ 1,136 | 🐛 27 | 🌐 Python | 📅 2025-12-27
 * "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher", 2023-08, ICLR 24, `cipher`, [\[paper\]](https://www.themoonlight.io/paper/share/56f16d1d-ae59-4ef0-b4f1-ba78befc6e84) [\[repo\]](https://github.com/RobustNLP/CipherChat) ⭐ 628 | 🐛 0 | 🌐 Python | 📅 2025-10-09
-* "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [\[paper\]](https://www.themoonlight.io/paper/share/2ebb8387-1e7a-4607-a309-fcd46a99d2be) [\[repo\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 604 | 🐛 17 | 🌐 Python | 📅 2026-02-27 [\[site\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 604 | 🐛 17 | 🌐 Python | 📅 2026-02-27
+* "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [\[paper\]](https://www.themoonlight.io/paper/share/2ebb8387-1e7a-4607-a309-fcd46a99d2be) [\[repo\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 603 | 🐛 17 | 🌐 Python | 📅 2026-02-27 [\[site\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 603 | 🐛 17 | 🌐 Python | 📅 2026-02-27
 * "Prompt Injection attack against LLM-integrated Applications", 2023-06, [\[paper\]](https://www.themoonlight.io/paper/share/9f08a762-e3b2-4154-9696-60ade71b1a23) [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 481 | 🐛 14 | 🌐 Python | 📅 2025-10-29
 * "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!", 2023-10, ICLR(oral) 24, [\[paper\]](https://www.themoonlight.io/paper/share/5d78aec9-b6a6-4b02-9104-cca3fedf38fd) [\[repo\]](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ⭐ 358 | 🐛 3 | 🌐 Python | 📅 2024-02-23 [\[site\]](https://llm-tuning-safety.github.io/) [\[dataset\]](https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI)
 * "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs", 2023-08, [\[paper\]](https://www.themoonlight.io/paper/share/b3ed2c03-9cca-4717-bab1-389643641bee) [\[repo\]](https://github.com/Libr-AI/do-not-answer) ⭐ 342 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-07 [\[dataset\]](https://huggingface.co/datasets/LibrAI/do-not-answer)
@@ -71,13 +71,13 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### Backdoor attack
 
+* "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection", 2023-07, NAACL 24, [\[paper\]](https://www.themoonlight.io/paper/share/f4d75f4b-d811-4509-8b15-8bf7c6e45288) [\[repo\]](https://github.com/wegodev2/virtual-prompt-injection) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-07-06 [\[site\]](https://poison-llm.github.io/)
 * "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [\[paper\]](https://www.themoonlight.io/paper/share/04ad5e28-6f64-46b0-8714-64a845cad49e)
 * "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models", 2023-05, EMNLP 23, [\[paper\]](https://www.themoonlight.io/paper/share/ec305746-2f9c-49d1-bf6b-020629578bd5)
-* "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection", 2023-07, NAACL 24, [\[paper\]](https://www.themoonlight.io/paper/share/f4d75f4b-d811-4509-8b15-8bf7c6e45288) [\[repo\]](https://github.com/wegodev2/virtual-prompt-injection) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-07-06 [\[site\]](https://poison-llm.github.io/)
 
 ### Fingerprinting
 
-* "LLMmap: Fingerprinting For Large Language Models", 2024-07, [\[paper\]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [\[repo\]](https://github.com/pasquini-dario/LLMmap) ⭐ 433 | 🐛 6 | 🌐 Python | 📅 2025-07-24
+* "LLMmap: Fingerprinting For Large Language Models", 2024-07, [\[paper\]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [\[repo\]](https://github.com/pasquini-dario/LLMmap) ⭐ 434 | 🐛 6 | 🌐 Python | 📅 2025-07-24
 * "Instructional Fingerprinting of Large Language Models", 2024-01, NAACL 24 [\[paper\]](https://www.themoonlight.io/paper/share/335c578a-1826-484e-bc00-6dc8c83d7c20) [\[repo\]](https://github.com/cnut1648/Model-Fingerprint) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2024-07-11 [\[site\]](https://cnut1648.github.io/Model-Fingerprint/)
 * "TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification", 2024-02, ACL 24 (findings) [\[paper\]](https://www.themoonlight.io/paper/share/393cf159-106c-4a35-8f64-3de459a0cba4) [\[repo\]](https://github.com/parameterlab/trap) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-20 [\[video\]](https://www.youtube.com/watch?v=9PdvAaUVZ28) [\[poster\]](https://gubri.eu/pdf/Poster_TRAP_MGubri.pdf)
 
@@ -107,14 +107,14 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Benchmark
 
 * "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 765 | 🐛 46 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
-* "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 656 | 🐛 12 | 🌐 Python | 📅 2025-04-04
+* "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 657 | 🐛 12 | 🌐 Python | 📅 2025-04-04
 * "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [\[paper\]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 481 | 🐛 14 | 🌐 Python | 📅 2025-10-29
 * "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [\[paper\]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 8,997 | 🐛 405 | 🌐 Python | 📅 2026-08-21: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,365 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,005 | 🐛 405 | 🌐 Python | 📅 2026-08-21: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,364 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,042 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
