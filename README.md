@@ -77,7 +77,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### Fingerprinting
 
-* "LLMmap: Fingerprinting For Large Language Models", 2024-07, [\[paper\]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [\[repo\]](https://github.com/pasquini-dario/LLMmap) ⭐ 434 | 🐛 6 | 🌐 Python | 📅 2025-07-24
+* "LLMmap: Fingerprinting For Large Language Models", 2024-07, [\[paper\]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [\[repo\]](https://github.com/pasquini-dario/LLMmap) ⭐ 435 | 🐛 6 | 🌐 Python | 📅 2025-07-24
 * "Instructional Fingerprinting of Large Language Models", 2024-01, NAACL 24 [\[paper\]](https://www.themoonlight.io/paper/share/335c578a-1826-484e-bc00-6dc8c83d7c20) [\[repo\]](https://github.com/cnut1648/Model-Fingerprint) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2024-07-11 [\[site\]](https://cnut1648.github.io/Model-Fingerprint/)
 * "TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification", 2024-02, ACL 24 (findings) [\[paper\]](https://www.themoonlight.io/paper/share/393cf159-106c-4a35-8f64-3de459a0cba4) [\[repo\]](https://github.com/parameterlab/trap) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-20 [\[video\]](https://www.youtube.com/watch?v=9PdvAaUVZ28) [\[poster\]](https://gubri.eu/pdf/Poster_TRAP_MGubri.pdf)
 
@@ -113,7 +113,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 9,023 | 🐛 407 | 🌐 Python | 📅 2026-08-21: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,025 | 🐛 407 | 🌐 Python | 📅 2026-08-21: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
 * [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,364 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
