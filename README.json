@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-02T06:02:18Z",
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4765
+                "stars": 4769
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-05-13T05:36:24Z",
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
-                "stars": 282
+                "stars": 281
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2025-10-09T03:20:12Z",
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 628
+                "stars": 627
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-27T17:19:03Z",
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
-                "stars": 604
+                "stars": 605
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-10-29T17:11:34Z",
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 482
+                "stars": 483
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2024-02-20T03:54:41Z",
                 "owner": "tmlr-group",
                 "repo": "DeepInception",
-                "stars": 177
+                "stars": 176
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2025-07-24T13:07:49Z",
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 435
+                "stars": 436
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2024-09-24T18:44:40Z",
                 "owner": "GraySwanAI",
                 "repo": "circuit-breakers",
-                "stars": 267
+                "stars": 268
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2024-04-15T02:08:17Z",
                 "owner": "microsoft",
                 "repo": "BIPIA",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -513,7 +513,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 768
+            "stars": 771
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-04-04T11:30:46Z",
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 657
+            "stars": 659
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 482
+            "stars": 483
           }
         }
       ],
@@ -561,10 +561,10 @@
             "archived": false,
             "id": 639097338,
             "language": "Python",
-            "last_commit": "2026-08-21T14:25:03Z",
+            "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9025
+            "stars": 9032
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3203
+            "stars": 3202
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1042
+            "stars": 1043
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 482
+            "stars": 483
           }
         },
         {
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:01.125Z",
+    "last_updated": "2026-08-26T10:15:56.597Z",
     "original_repository": "corca-ai/awesome-llm-security",
     "original_repository_id": 662394571,
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
