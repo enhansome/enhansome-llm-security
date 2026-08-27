@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-02T06:02:18Z",
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4769
+                "stars": 4770
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-10-29T17:11:34Z",
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 484
+                "stars": 486
               }
             },
             {
@@ -513,7 +513,7 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 772
+            "stars": 776
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-04-04T11:30:46Z",
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 660
+            "stars": 661
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 484
+            "stars": 486
           }
         }
       ],
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9041
+            "stars": 9047
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4365
+            "stars": 4366
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3204
+            "stars": 3205
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 484
+            "stars": 486
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2024-02-12T07:22:56Z",
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:57.043Z",
+    "last_updated": "2026-08-27T19:58:33.982Z",
     "original_repository_info": {
       "archived": false,
       "id": 662394571,
