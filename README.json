@@ -17,8 +17,9 @@
                 "last_commit": "2024-08-02T06:02:18Z",
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4770
-              }
+                "stars": 4775
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "XuandongZhao",
                 "repo": "weak-to-strong",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "euanong",
                 "repo": "image-hijacks",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "vec2text",
                 "repo": "vec2text",
                 "stars": 1136
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "LLM-Tuning-Safety",
                 "repo": "LLMs-Finetuning-Safety",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "tmlr-group",
                 "repo": "DeepInception",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "NJUNLP",
                 "repo": "ReNeLLM",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "GodXuxilie",
                 "repo": "PromptAttack",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "DAMO-NLP-SG",
                 "repo": "multilingual-safety-for-LLMs",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "qiuhuachuan",
                 "repo": "latent-jailbreak",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "controllability",
                 "repo": "jailbreak-evaluation",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "naver-ai",
                 "repo": "JOOD",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "Aniloid2",
                 "repo": "Confidence_Elicitation_Attacks",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -302,7 +320,8 @@
                 "owner": "wegodev2",
                 "repo": "virtual-prompt-injection",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -324,7 +343,8 @@
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "cnut1648",
                 "repo": "Model-Fingerprint",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "parameterlab",
                 "repo": "trap",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -376,7 +398,8 @@
                 "owner": "GraySwanAI",
                 "repo": "circuit-breakers",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "microsoft",
                 "repo": "BIPIA",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "XHMY",
                 "repo": "AutoDefense",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "poloclub",
                 "repo": "llm-self-defense",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "neelsjain",
                 "repo": "baseline-defenses",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "zichuan-liu",
                 "repo": "IB4LLMs",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "Ed-Zh",
                 "repo": "PARDEN",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -488,7 +517,8 @@
                 "owner": "llm-platform-security",
                 "repo": "chatgpt-plugin-eval",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:59:04.627Z"
             }
           ],
           "description": null,
@@ -513,8 +543,9 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 776
-          }
+            "stars": 777
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
             "stars": 661
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         }
       ],
       "title": "Benchmark"
@@ -564,8 +597,9 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9047
-          }
+            "stars": 9066
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -579,8 +613,9 @@
             "last_commit": "2026-08-18T01:15:09Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4366
-          }
+            "stars": 4368
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "protectai",
             "repo": "llm-guard",
             "stars": 3205
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "protectai",
             "repo": "rebuff",
             "stars": 1521
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "splx-ai",
             "repo": "agentic-radar",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -640,7 +678,8 @@
             "owner": "prompt-security",
             "repo": "ps-fuzz",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -655,7 +694,8 @@
             "owner": "deadbits",
             "repo": "vigil-llm",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -670,7 +710,8 @@
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -685,7 +726,8 @@
             "owner": "mnns",
             "repo": "LLMFuzzer",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -700,7 +742,8 @@
             "owner": "Repello-AI",
             "repo": "whistleblower",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "w4-advisory",
             "repo": "plexiglass",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "controllability",
             "repo": "jailbreak-evaluation",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         }
       ],
       "title": "Tools"
@@ -751,7 +796,8 @@
             "owner": "mik0w",
             "repo": "pallms",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -766,7 +812,8 @@
             "owner": "Nautilus-Institute",
             "repo": "quals-2023",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         },
         {
           "node_type": "item",
@@ -781,14 +828,15 @@
             "owner": "rushout09",
             "repo": "llm-security-startups",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
         }
       ],
       "title": "Other Awesome Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:58:33.982Z",
+    "last_updated": "2026-08-28T20:59:04.627Z",
     "original_repository_info": {
       "archived": false,
       "id": 662394571,
@@ -796,7 +844,7 @@
       "last_commit": "2025-08-20T01:27:47Z",
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1686
+      "stars": 1687
     },
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
