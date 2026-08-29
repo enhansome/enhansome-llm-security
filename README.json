@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal and Transferable Attacks on Aligned Language Models",
+                "homepage": "https://llm-attacks.org/",
                 "id": 671271357,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-02T06:02:18Z",
+                "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4775
+                "stars": 4775,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the Paper (AAAI 2024, Oral) --- Visual Adversarial Examples Jailbreak Large Language Models",
+                "homepage": null,
                 "id": 653369312,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-13T05:36:24Z",
+                "open_issues": 24,
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
-                "stars": 281
+                "stars": 281,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025] Weak-to-Strong Jailbreaking on Large Language Models",
+                "homepage": null,
                 "id": 749514836,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-02T02:52:44Z",
+                "open_issues": 3,
                 "owner": "XuandongZhao",
                 "repo": "weak-to-strong",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codebase for Image Hijacks: Adversarial Images can Control Generative Models at Runtime",
+                "homepage": "https://image-hijacks.github.io/",
                 "id": 685748314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-19T20:28:31Z",
+                "open_issues": 8,
                 "owner": "euanong",
                 "repo": "image-hijacks",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "utilities for decoding deep representations (like sentence embeddings) back to text",
+                "homepage": null,
                 "id": 606513874,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-27T17:22:44Z",
+                "open_issues": 27,
                 "owner": "vec2text",
                 "repo": "vec2text",
-                "stars": 1136
+                "stars": 1136,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -99,12 +124,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework to evaluate the generalization capability of safety alignment for LLMs",
+                "homepage": null,
                 "id": 676834494,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-09T03:20:12Z",
+                "open_issues": 0,
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "alignment",
+                  "chatgpt",
+                  "gpt-4-0613",
+                  "jailbreak",
+                  "large-language-models",
+                  "llm",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -115,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts",
+                "homepage": null,
                 "id": 693382411,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-27T17:19:03Z",
+                "open_issues": 17,
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
-                "stars": 606
+                "stars": 606,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -131,12 +174,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
+                "homepage": null,
                 "id": 707020503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-29T17:11:34Z",
+                "open_issues": 14,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 486
+                "stars": 486,
+                "topics": [
+                  "llm",
+                  "llm-security",
+                  "llms",
+                  "prompt-injection",
+                  "prompt-injection-tool",
+                  "security-and-privacy"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -147,12 +202,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We jailbreak GPT-3.5 Turbo’s safety guardrails by fine-tuning it on only 10 adversarially designed examples, at a cost of less than $0.20 via OpenAI’s APIs.",
+                "homepage": "https://llm-tuning-safety.github.io/",
                 "id": 701430060,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-23T21:19:44Z",
+                "open_issues": 3,
                 "owner": "LLM-Tuning-Safety",
                 "repo": "LLMs-Finetuning-Safety",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "alignment",
+                  "llm",
+                  "llm-finetuning"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -163,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs",
+                "homepage": null,
                 "id": 680825323,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-07T14:55:51Z",
+                "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -179,12 +248,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[arXiv:2311.03191] \"DeepInception: Hypnotize Large Language Model to Be Jailbreaker\"",
+                "homepage": "https://arxiv.org/pdf/2311.03191.pdf",
                 "id": 715585025,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-20T03:54:41Z",
+                "open_issues": 0,
                 "owner": "tmlr-group",
                 "repo": "DeepInception",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "deep",
+                  "gpt",
+                  "gpt3",
+                  "gpt4",
+                  "inception",
+                  "jailbreak",
+                  "large-language-models",
+                  "llm",
+                  "safety",
+                  "trustworthy"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -195,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of our NAACL 2024 paper \"A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily\".",
+                "homepage": null,
                 "id": 740774265,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-02T09:32:44Z",
+                "open_issues": 0,
                 "owner": "NJUNLP",
                 "repo": "ReNeLLM",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -211,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An LLM can Fool Itself: A Prompt-Based Adversarial Attack (ICLR 2024)",
+                "homepage": null,
                 "id": 693468079,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-21T05:52:32Z",
+                "open_issues": 0,
                 "owner": "GodXuxilie",
                 "repo": "PromptAttack",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -227,12 +322,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2024]Data for \"Multilingual Jailbreak Challenges in Large Language Models\"",
+                "homepage": null,
                 "id": 701672322,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-07T06:13:58Z",
+                "open_issues": 0,
                 "owner": "DAMO-NLP-SG",
                 "repo": "multilingual-safety-for-LLMs",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "jailbreak",
+                  "llm",
+                  "multilingual",
+                  "safety"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -243,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 667460790,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-21T04:23:32Z",
+                "open_issues": 1,
                 "owner": "qiuhuachuan",
                 "repo": "latent-jailbreak",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -259,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The jailbreak-evaluation is an easy-to-use Python package for language model jailbreak evaluation.",
+                "homepage": "https://arxiv.org/abs/2404.06407",
                 "id": 774990581,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-04T16:07:47Z",
+                "open_issues": 0,
                 "owner": "controllability",
                 "repo": "jailbreak-evaluation",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -275,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] Official implementation for JOOD \"Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy\"",
+                "homepage": null,
                 "id": 949698747,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-11T15:09:42Z",
+                "open_issues": 2,
                 "owner": "naver-ai",
                 "repo": "JOOD",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -291,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Confidence Elicitation: A New Attack Vector for Large Language Models",
+                "homepage": null,
                 "id": 859728674,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-04T08:28:40Z",
+                "open_issues": 1,
                 "owner": "Aniloid2",
                 "repo": "Confidence_Elicitation_Attacks",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -314,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of \"Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection\"",
+                "homepage": null,
                 "id": 706912254,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-06T09:55:50Z",
+                "open_issues": 0,
                 "owner": "wegodev2",
                 "repo": "virtual-prompt-injection",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -337,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 832253373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-24T13:07:49Z",
+                "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 438
+                "stars": 438,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -353,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fingerprint large language models",
+                "homepage": null,
                 "id": 700485449,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-11T04:21:11Z",
+                "open_issues": 5,
                 "owner": "cnut1648",
                 "repo": "Model-Fingerprint",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -369,12 +509,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of \"TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification\", ACL2024 (findings)",
+                "homepage": null,
                 "id": 760085235,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-20T14:53:30Z",
+                "open_issues": 0,
                 "owner": "parameterlab",
                 "repo": "trap",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "acl2024",
+                  "adversarial-attacks",
+                  "fingerprint",
+                  "fingerprinting",
+                  "large-language-models",
+                  "llm",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -392,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving Alignment and Robustness with Circuit Breakers",
+                "homepage": null,
                 "id": 811438456,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-24T18:44:40Z",
+                "open_issues": 14,
                 "owner": "GraySwanAI",
                 "repo": "circuit-breakers",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -408,12 +566,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A benchmark for evaluating the robustness of LLMs and defenses to indirect prompt injection attacks.",
+                "homepage": null,
                 "id": 738936550,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-15T02:08:17Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "BIPIA",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "llm-security"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -424,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks",
+                "homepage": "https://arxiv.org/abs/2403.04783",
                 "id": 764443584,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-15T23:06:59Z",
+                "open_issues": 1,
                 "owner": "XHMY",
                 "repo": "AutoDefense",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -440,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM Self Defense: By Self Examination, LLMs know they are being tricked",
+                "homepage": null,
                 "id": 769276768,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-05-21T07:51:46Z",
+                "open_issues": 7,
                 "owner": "poloclub",
                 "repo": "llm-self-defense",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -456,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for \"Baseline Defenses for Adversarial Attacks Against Aligned Language Models\"",
+                "homepage": null,
                 "id": 710521062,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-26T22:00:06Z",
+                "open_issues": 0,
                 "owner": "neelsjain",
                 "repo": "baseline-defenses",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -472,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24] Protecting Your LLMs with Information Bottleneck",
+                "homepage": "https://zichuan-liu.github.io/projects/IBProtector/index.html",
                 "id": 787810972,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-07T07:25:58Z",
+                "open_issues": 4,
                 "owner": "zichuan-liu",
                 "repo": "IB4LLMs",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             },
@@ -488,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 750278286,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-05-14T08:14:06Z",
+                "open_issues": 0,
                 "owner": "Ed-Zh",
                 "repo": "PARDEN",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -511,12 +701,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins",
+                "homepage": "https://llm-platform-security.github.io/chatgpt-plugin-eval/",
                 "id": 690129930,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-07-29T23:26:59Z",
+                "open_issues": 1,
                 "owner": "llm-platform-security",
                 "repo": "chatgpt-plugin-eval",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-plugins",
+                  "llm",
+                  "llm-platform",
+                  "llm-platform-security",
+                  "llm-privacy",
+                  "llm-security",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
             }
@@ -538,12 +742,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.",
+            "homepage": "https://agentdojo.spylab.ai/",
             "id": 765133369,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
+            "open_issues": 46,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 777
+            "stars": 777,
+            "topics": [
+              "benchmark",
+              "large-language-models",
+              "prompt-injection",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -554,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track]",
+            "homepage": "https://jailbreakbench.github.io",
             "id": 718270289,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-04T11:30:46Z",
+            "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 661
+            "stars": 660,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -570,12 +789,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
+            "homepage": null,
             "id": 707020503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-29T17:11:34Z",
+            "open_issues": 14,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "llm",
+              "llm-security",
+              "llms",
+              "prompt-injection",
+              "prompt-injection-tool",
+              "security-and-privacy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         }
@@ -592,12 +823,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the LLM vulnerability scanner",
+            "homepage": "https://discord.gg/uVch4puUCs",
             "id": 639097338,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:37:37Z",
+            "open_issues": 408,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9066
+            "stars": 9066,
+            "topics": [
+              "ai",
+              "llm-evaluation",
+              "llm-security",
+              "security-scanners",
+              "vulnerability-assessment"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -608,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of tools to assess and improve LLM security.",
+            "homepage": null,
             "id": 728399986,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T01:15:09Z",
+            "open_issues": 85,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4368
+            "stars": 4368,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -624,12 +871,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -640,12 +903,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLM Prompt Injection Detector",
+            "homepage": "https://playground.rebuff.ai",
             "id": 631814434,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T23:35:48Z",
+            "open_issues": 33,
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1521
+            "stars": 1521,
+            "topics": [
+              "llm",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "prompts",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -656,12 +931,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A security scanner for your LLM agentic workflows",
+            "homepage": "https://splx.ai",
             "id": 931506474,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-27T15:28:44Z",
+            "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1043
+            "stars": 1043,
+            "topics": [
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "ai-red-teaming",
+              "ai-security",
+              "cli",
+              "devsecops",
+              "generative-ai",
+              "llm",
+              "llm-security",
+              "mcp",
+              "mcp-server",
+              "red-teaming",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -672,12 +969,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt",
+            "homepage": "https://www.prompt.security/fuzzer",
             "id": 735087691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:31:23Z",
+            "open_issues": 19,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 704
+            "stars": 704,
+            "topics": [
+              "ai",
+              "ai-fuzzer",
+              "fuzzer",
+              "generative-ai",
+              "llm",
+              "llm-fuzzer",
+              "security",
+              "security-tools",
+              "system-prompt-hardener"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -688,12 +1000,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs",
+            "homepage": "https://vigil.deadbits.ai/",
             "id": 687122549,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-31T18:43:41Z",
+            "open_issues": 16,
             "owner": "deadbits",
             "repo": "vigil-llm",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-machine-learning",
+              "large-language-models",
+              "llm-security",
+              "llmops",
+              "prompt-injection",
+              "security-tools",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -704,12 +1030,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
+            "homepage": null,
             "id": 707020503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-29T17:11:34Z",
+            "open_issues": 14,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "llm",
+              "llm-security",
+              "llms",
+              "prompt-injection",
+              "prompt-injection-tool",
+              "security-and-privacy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -720,12 +1058,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥",
+            "homepage": null,
             "id": 643275640,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-12T07:22:56Z",
+            "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "ai",
+              "cybersecurity",
+              "llm",
+              "llmsecurity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -736,12 +1084,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and folks who want to know what's going on inside the LLM-based app they use daily",
+            "homepage": "https://repello.ai/product",
             "id": 818947413,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-31T09:51:10Z",
+            "open_issues": 13,
             "owner": "Repello-AI",
             "repo": "whistleblower",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "ai-red-teaming",
+              "ai-security",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "jailbreaks",
+              "llm-security",
+              "prompt-engineering",
+              "prompt-injection-llm-security"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -752,12 +1114,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs).",
+            "homepage": null,
             "id": 312163254,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-04T22:18:58Z",
+            "open_issues": 0,
             "owner": "w4-advisory",
             "repo": "plexiglass",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-machine-learning",
+              "cybersecurity",
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -768,12 +1143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The jailbreak-evaluation is an easy-to-use Python package for language model jailbreak evaluation.",
+            "homepage": "https://arxiv.org/abs/2404.06407",
             "id": 774990581,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-04T16:07:47Z",
+            "open_issues": 0,
             "owner": "controllability",
             "repo": "jailbreak-evaluation",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         }
@@ -790,12 +1170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Payloads for Attacking Large Language Models ",
+            "homepage": null,
             "id": 699554538,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-13T13:58:22Z",
+            "open_issues": 0,
             "owner": "mik0w",
             "repo": "pallms",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -806,12 +1191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the DEF CON 31 CTF Qualifiers.",
+            "homepage": null,
             "id": 646535677,
             "language": "C",
+            "license": null,
             "last_commit": "2023-06-09T02:15:31Z",
+            "open_issues": 0,
             "owner": "Nautilus-Institute",
             "repo": "quals-2023",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         },
@@ -822,12 +1212,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome and comprehensive list of LLM Securtiy Startups.",
+            "homepage": null,
             "id": 885805333,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-11-09T13:06:40Z",
+            "open_issues": 2,
             "owner": "rushout09",
             "repo": "llm-security-startups",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "ai",
+              "ai-security",
+              "artificial-intelligence",
+              "llm",
+              "llm-security",
+              "owasp-top-10",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
         }
@@ -836,15 +1239,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:04.627Z",
+    "last_updated": "2026-08-29T04:29:24.427Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curation of awesome tools, documents and projects about LLM Security.",
+      "homepage": null,
       "id": 662394571,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
+      "open_issues": 196,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1687
+      "stars": 1687,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "llm",
+        "security"
+      ]
     },
     "original_repository_sha": "c8ae124c5768aa4ca087ccf978c24fb41789ed61",
     "enhanced_repository": "enhansome/enhansome-llm-security",
