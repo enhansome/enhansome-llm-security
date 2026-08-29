@@ -113,8 +113,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 9,066 | 🐛 408 | 🌐 Python | 📅 2026-08-25: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,368 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,070 | 🐛 410 | 🌐 Python | 📅 2026-08-25: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,369 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,043 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)

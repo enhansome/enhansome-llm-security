@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:37:37Z",
-            "open_issues": 408,
+            "open_issues": 410,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9066,
+            "stars": 9070,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 85,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4368,
+            "stars": 4369,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -880,7 +880,7 @@
             "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205,
+            "stars": 3206,
             "topics": [
               "adversarial-machine-learning",
               "chatgpt",
@@ -912,7 +912,7 @@
             "open_issues": 33,
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1521,
+            "stars": 1520,
             "topics": [
               "llm",
               "llmops",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:24.427Z",
+    "last_updated": "2026-08-29T14:40:45.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 196,
+      "open_issues": 197,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1687,
