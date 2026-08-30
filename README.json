@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4775,
+                "stars": 4776,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -84,7 +84,7 @@
                 "open_issues": 8,
                 "owner": "euanong",
                 "repo": "image-hijacks",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -399,7 +399,7 @@
                 "open_issues": 2,
                 "owner": "naver-ai",
                 "repo": "JOOD",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -832,7 +832,7 @@
             "open_issues": 410,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9070,
+            "stars": 9077,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -856,10 +856,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-18T01:15:09Z",
-            "open_issues": 85,
+            "open_issues": 84,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4369,
+            "stars": 4371,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1218,7 +1218,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2024-11-09T13:06:40Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "rushout09",
             "repo": "llm-security-startups",
             "stars": 15,
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:40:45.075Z",
+    "last_updated": "2026-08-30T14:30:29.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",

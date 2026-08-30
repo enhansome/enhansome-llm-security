@@ -29,10 +29,10 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### White-box attack
 
-* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,775 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
+* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,776 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
 * "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [\[repo\]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) ⭐ 281 | 🐛 24 | 🌐 Python | 📅 2024-05-13
 * "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [\[paper\]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [\[repo\]](https://github.com/XuandongZhao/weak-to-strong) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2025-05-02
-* "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [\[repo\]](https://github.com/euanong/image-hijacks) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2023-09-19 [\[site\]](https://image-hijacks.github.io)
+* "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [\[repo\]](https://github.com/euanong/image-hijacks) ⭐ 58 | 🐛 8 | 🌐 Python | 📅 2023-09-19 [\[site\]](https://image-hijacks.github.io)
 * "Are aligned neural networks adversarially aligned?", 2023-06, NeurIPS(Poster) 23, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/282d463d-f9ce-4759-9e97-38b72c1200a7)
 * "(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs", 2023-07, `multi-modal` [\[paper\]](https://www.themoonlight.io/paper/share/520e644a-b4f9-497f-9ebf-d6da198699aa)
 * "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models", 2023-07, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/5409b2f8-3f70-4cee-bcf3-01563877acf8)
@@ -44,14 +44,14 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 * "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [\[paper\]](https://www.themoonlight.io/paper/share/2ebb8387-1e7a-4607-a309-fcd46a99d2be) [\[repo\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 606 | 🐛 17 | 🌐 Python | 📅 2026-02-27 [\[site\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 606 | 🐛 17 | 🌐 Python | 📅 2026-02-27
 * "Prompt Injection attack against LLM-integrated Applications", 2023-06, [\[paper\]](https://www.themoonlight.io/paper/share/9f08a762-e3b2-4154-9696-60ade71b1a23) [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 486 | 🐛 14 | 🌐 Python | 📅 2025-10-29
 * "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!", 2023-10, ICLR(oral) 24, [\[paper\]](https://www.themoonlight.io/paper/share/5d78aec9-b6a6-4b02-9104-cca3fedf38fd) [\[repo\]](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ⭐ 358 | 🐛 3 | 🌐 Python | 📅 2024-02-23 [\[site\]](https://llm-tuning-safety.github.io/) [\[dataset\]](https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI)
-* "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs", 2023-08, [\[paper\]](https://www.themoonlight.io/paper/share/b3ed2c03-9cca-4717-bab1-389643641bee) [\[repo\]](https://github.com/Libr-AI/do-not-answer) ⭐ 342 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-07 [\[dataset\]](https://huggingface.co/datasets/LibrAI/do-not-answer)
+* "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs", 2023-08, [\[paper\]](https://www.themoonlight.io/paper/share/b3ed2c03-9cca-4717-bab1-389643641bee) [\[repo\]](https://github.com/Libr-AI/do-not-answer) ⭐ 343 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-07 [\[dataset\]](https://huggingface.co/datasets/LibrAI/do-not-answer)
 * "DeepInception: Hypnotize Large Language Model to Be Jailbreaker", 2023-11, [\[paper\]](https://www.themoonlight.io/paper/share/c57a3c8c-50a5-4a49-8f99-b1eec1a9b2b1) [\[repo\]](https://github.com/tmlr-group/DeepInception) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2024-02-20 [\[site\]](https://deepinception.github.io/)
 * "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily", 2023-11, NAACL 24, [\[paper\]](https://www.themoonlight.io/paper/share/fd52e4ff-efb3-471b-abf1-ec689418e0bf) [\[repo\]](https://github.com/NJUNLP/ReNeLLM) ⭐ 163 | 🐛 0 | 🌐 Python | 📅 2025-09-02
 * "An LLM can Fool Itself: A Prompt-Based Adversarial Attack", 2023-10, ICLR(poster) 24, [\[paper\]](https://www.themoonlight.io/paper/share/193ec3b5-78ae-483b-adf5-aa6684919685) [\[repo\]](https://github.com/GodXuxilie/PromptAttack) ⭐ 117 | 🐛 0 | 🌐 Python | 📅 2025-01-21
 * "Multilingual Jailbreak Challenges in Large Language Models", 2023-10, ICLR(poster) 24, [\[paper\]](https://www.themoonlight.io/paper/share/b632c951-861c-4c12-8254-315ef0e074c9) [\[repo\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) ⭐ 108 | 🐛 0 | 📅 2024-03-07
 * "Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models", 2023-07, [\[paper\]](https://www.themoonlight.io/paper/share/4d35806f-3e25-4b28-abb3-2ea94b7246bd) [\[repo\]](https://github.com/qiuhuachuan/latent-jailbreak/tree/main) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-05-21
 * "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [\[paper\]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [\[repo\]](https://github.com/controllability/jailbreak-evaluation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-11-04
-* "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy", 2025-03, CVPR 25 [\[paper\]](https://arxiv.org/pdf/2503.20823) [\[repo\]](https://github.com/naver-ai/JOOD) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2025-06-11
+* "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy", 2025-03, CVPR 25 [\[paper\]](https://arxiv.org/pdf/2503.20823) [\[repo\]](https://github.com/naver-ai/JOOD) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-06-11
 * "Confidence Elicitation: A New Attack Vector for Large Language Models", 2025-02, ICLR(poster) 25 [\[paper\]](https://www.themoonlight.io/paper/share/156c1cb3-c9ea-443d-9cfc-3f494f711df5) [\[repo\]](https://github.com/Aniloid2/Confidence_Elicitation_Attacks) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-03-04
 * "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection", 2023-02, AISec\@CCS 23 [\[paper\]](https://www.themoonlight.io/paper/share/8e338d56-34fc-411f-8f5f-2746997d7927)
 * "Jailbroken: How Does LLM Safety Training Fail?", 2023-07, NeurIPS(Oral) 23, [\[paper\]](https://www.themoonlight.io/paper/share/1b53328c-f894-443b-8818-7e1d35580202)
@@ -113,11 +113,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 9,070 | 🐛 410 | 🌐 Python | 📅 2026-08-25: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,369 | 🐛 85 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,077 | 🐛 410 | 🌐 Python | 📅 2026-08-25: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,371 | 🐛 84 | 🌐 Python | 📅 2026-08-18: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
-* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,043 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,044 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 * [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) ⭐ 704 | 🐛 19 | 🌐 Python | 📅 2026-08-19: the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 * [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 496 | 🐛 16 | 🌐 Python | 📅 2024-01-31: a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 * [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 486 | 🐛 14 | 🌐 Python | 📅 2025-10-29: open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
@@ -148,7 +148,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 * [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms) ⭐ 145 | 🐛 0 | 📅 2026-01-13
 * [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta) ⭐ 128 | 🐛 0 | 🌐 C | 📅 2023-06-09: the world's top security competition
-* [LLM Security startups](https://github.com/rushout09/llm-security-startups) ⭐ 15 | 🐛 2 | 📅 2024-11-09
+* [LLM Security startups](https://github.com/rushout09/llm-security-startups) ⭐ 15 | 🐛 3 | 📅 2024-11-09
 * (0din GenAI Bug Bounty from Mozilla)(<https://0din.ai>): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
 * [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 * [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
@@ -175,4 +175,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
