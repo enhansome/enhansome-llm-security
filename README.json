@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4778,
+                "stars": 4779,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "NJUNLP",
                 "repo": "ReNeLLM",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 441,
+                "stars": 442,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 46,
+            "open_issues": 48,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:37:37Z",
-            "open_issues": 412,
+            "open_issues": 414,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9089,
+            "stars": 9094,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 84,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4375,
+            "stars": 4376,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:16:42.451Z",
+    "last_updated": "2026-09-02T13:50:54.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 202,
+      "open_issues": 201,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1689,
+      "stars": 1690,
       "topics": [
         "awesome",
         "awesome-list",
