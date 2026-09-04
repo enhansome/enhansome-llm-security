@@ -751,7 +751,7 @@
             "open_issues": 51,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 796,
+            "stars": 799,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 664,
+            "stars": 665,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T22:37:37Z",
-            "open_issues": 419,
+            "last_commit": "2026-09-03T16:57:40Z",
+            "open_issues": 412,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9101,
+            "stars": 9109,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -880,7 +880,7 @@
             "open_issues": 38,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205,
+            "stars": 3204,
             "topics": [
               "adversarial-machine-learning",
               "chatgpt",
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1044,
+            "stars": 1045,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:50:21.438Z",
+    "last_updated": "2026-09-04T13:44:30.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 204,
+      "open_issues": 206,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1690,
+      "stars": 1692,
       "topics": [
         "awesome",
         "awesome-list",
