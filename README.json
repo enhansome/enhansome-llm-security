@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4780,
+                "stars": 4779,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -162,7 +162,7 @@
                 "open_issues": 17,
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
-                "stars": 608,
+                "stars": 607,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 444,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -751,7 +751,7 @@
             "open_issues": 51,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 799,
+            "stars": 803,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:57:40Z",
-            "open_issues": 412,
+            "last_commit": "2026-09-04T16:25:50Z",
+            "open_issues": 413,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9109,
+            "stars": 9115,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 85,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4379,
+            "stars": 4380,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1045,
+            "stars": 1046,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:44:30.419Z",
+    "last_updated": "2026-09-05T13:00:28.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
