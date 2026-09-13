@@ -179,11 +179,11 @@
                 "id": 707020503,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-10-29T17:11:34Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-12T20:58:04Z",
+                "open_issues": 13,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 452,
+                "stars": 453,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 818,
+            "stars": 819,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -794,11 +794,11 @@
             "id": 707020503,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-10-29T17:11:34Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-12T20:58:04Z",
+            "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "llm",
               "llm-security",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T18:56:03Z",
-            "open_issues": 426,
+            "open_issues": 428,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9215,
+            "stars": 9221,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 86,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4388,
+            "stars": 4390,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -978,7 +978,7 @@
             "open_issues": 20,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "ai",
               "ai-fuzzer",
@@ -1035,11 +1035,11 @@
             "id": 707020503,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-10-29T17:11:34Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-12T20:58:04Z",
+            "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "llm",
               "llm-security",
@@ -1179,7 +1179,7 @@
             "open_issues": 0,
             "owner": "mik0w",
             "repo": "pallms",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:05:55.113Z",
+    "last_updated": "2026-09-13T13:52:26.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 217,
+      "open_issues": 216,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1693,
+      "stars": 1694,
       "topics": [
         "awesome",
         "awesome-list",
