@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4791,
+                "stars": 4793,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -183,7 +183,7 @@
                 "open_issues": 13,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 343,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 453,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -751,7 +751,7 @@
             "open_issues": 55,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 821,
+            "stars": 825,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 11,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 669,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -798,7 +798,7 @@
             "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "llm",
               "llm-security",
@@ -832,7 +832,7 @@
             "open_issues": 429,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9234,
+            "stars": 9252,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 87,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4394,
+            "stars": 4395,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1052,
+            "stars": 1053,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1039,7 +1039,7 @@
             "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "llm",
               "llm-security",
@@ -1179,7 +1179,7 @@
             "open_issues": 0,
             "owner": "mik0w",
             "repo": "pallms",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:58:53.736Z",
+    "last_updated": "2026-09-15T14:26:11.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 218,
+      "open_issues": 220,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1696,
