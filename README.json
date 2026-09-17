@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4795,
+                "stars": 4796,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -183,7 +183,7 @@
                 "open_issues": 13,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 494,
+                "stars": 495,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -565,7 +565,7 @@
               "description": "[repo]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A benchmark for evaluating the robustness of LLMs and defenses to indirect prompt injection attacks.",
                 "homepage": null,
                 "id": 738936550,
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 835,
+            "stars": 837,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -798,7 +798,7 @@
             "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "llm",
               "llm-security",
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T18:56:03Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-16T21:54:58Z",
+            "open_issues": 438,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9267,
+            "stars": 9281,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 87,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4397,
+            "stars": 4399,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1053,
+            "stars": 1054,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1039,7 +1039,7 @@
             "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "llm",
               "llm-security",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:20:37.330Z",
+    "last_updated": "2026-09-17T14:25:37.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 222,
+      "open_issues": 223,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1698,
+      "stars": 1699,
       "topics": [
         "awesome",
         "awesome-list",
