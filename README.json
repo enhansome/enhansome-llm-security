@@ -133,7 +133,7 @@
                 "open_issues": 0,
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "alignment",
                   "chatgpt",
@@ -183,7 +183,7 @@
                 "open_issues": 13,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -257,7 +257,7 @@
                 "open_issues": 0,
                 "owner": "tmlr-group",
                 "repo": "DeepInception",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "deep",
                   "gpt",
@@ -595,7 +595,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-15T23:06:59Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "XHMY",
                 "repo": "AutoDefense",
                 "stars": 68,
@@ -751,7 +751,7 @@
             "open_issues": 65,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 845,
+            "stars": 851,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 673,
+            "stars": 674,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -798,7 +798,7 @@
             "open_issues": 13,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "llm",
               "llm-security",
@@ -832,7 +832,7 @@
             "open_issues": 450,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9313,
+            "stars": 9324,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 87,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4401,
+            "stars": 4402,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -978,7 +978,7 @@
             "open_issues": 20,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 710,
+            "stars": 712,
             "topics": [
               "ai",
               "ai-fuzzer",
@@ -989,6 +989,34 @@
               "security",
               "security-tools",
               "system-prompt-hardener"
+            ]
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Prompt-Injection",
+          "description": "open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
+            "homepage": null,
+            "id": 707020503,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-12T20:58:04Z",
+            "open_issues": 13,
+            "owner": "liu00222",
+            "repo": "Open-Prompt-Injection",
+            "stars": 497,
+            "topics": [
+              "llm",
+              "llm-security",
+              "llms",
+              "prompt-injection",
+              "prompt-injection-tool",
+              "security-and-privacy"
             ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1019,34 +1047,6 @@
               "prompt-injection",
               "security-tools",
               "yara-scanner"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:04.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Open-Prompt-Injection",
-          "description": "open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
-            "homepage": null,
-            "id": 707020503,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-12T20:58:04Z",
-            "open_issues": 13,
-            "owner": "liu00222",
-            "repo": "Open-Prompt-Injection",
-            "stars": 496,
-            "topics": [
-              "llm",
-              "llm-security",
-              "llms",
-              "prompt-injection",
-              "prompt-injection-tool",
-              "security-and-privacy"
             ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:40:38.066Z",
+    "last_updated": "2026-09-21T15:59:55.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 226,
+      "open_issues": 227,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1701,
+      "stars": 1702,
       "topics": [
         "awesome",
         "awesome-list",
