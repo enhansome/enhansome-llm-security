@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4811,
+                "stars": 4812,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "\"Visual Adversarial Examples Jailbreak Large Language Models\", 2023-06, AAAI(Oral) 24, , [paper]",
-              "description": "[repo]",
+              "description": "Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "\"Weak-to-Strong Jailbreaking on Large Language Models\", 2024-04, , [paper]",
-              "description": "[repo]",
+              "description": "XuandongZhao/weak-to-strong",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "\"Language Model Inversion\", 2023-11, ICLR(poster) 24, [paper]",
-              "description": "[repo]",
+              "description": "vec2text/vec2text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "\"GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher\", 2023-08, ICLR 24, , [paper]",
-              "description": "[repo]",
+              "description": "RobustNLP/CipherChat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
                 "open_issues": 0,
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "alignment",
                   "chatgpt",
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "\"Prompt Injection attack against LLM-integrated Applications\", 2023-06, [paper]",
-              "description": "[repo]",
+              "description": "liu00222/Open-Prompt-Injection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "\"A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily\", 2023-11, NAACL 24, [paper]",
-              "description": "[repo]",
+              "description": "NJUNLP/ReNeLLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "\"An LLM can Fool Itself: A Prompt-Based Adversarial Attack\", 2023-10, ICLR(poster) 24, [paper]",
-              "description": "[repo]",
+              "description": "GodXuxilie/PromptAttack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,7 +318,7 @@
             {
               "node_type": "item",
               "title": "\"Multilingual Jailbreak Challenges in Large Language Models\", 2023-10, ICLR(poster) 24, [paper]",
-              "description": "[repo]",
+              "description": "DAMO-NLP-SG/multilingual-safety-for-LLMs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "\"Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models\", 2023-07, [paper]",
-              "description": "[repo]",
+              "description": "qiuhuachuan/latent-jailbreak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "\"Rethinking How to Evaluate Language Model Jailbreak\", 2024-04, [paper]",
-              "description": "[repo]",
+              "description": "controllability/jailbreak-evaluation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "\"Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy\", 2025-03, CVPR 25 [paper]",
-              "description": "[repo]",
+              "description": "naver-ai/JOOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "\"Confidence Elicitation: A New Attack Vector for Large Language Models\", 2025-02, ICLR(poster) 25 [paper]",
-              "description": "[repo]",
+              "description": "Aniloid2/Confidence_Elicitation_Attacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -463,7 +463,7 @@
             {
               "node_type": "item",
               "title": "\"LLMmap: Fingerprinting For Large Language Models\", 2024-07, [paper]",
-              "description": "[repo]",
+              "description": "pasquini-dario/LLMmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
             {
               "node_type": "item",
               "title": "\"Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models\", 2023-12, [paper]",
-              "description": "[repo]",
+              "description": "microsoft/BIPIA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "\"AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks\", 2024-03, [paper]",
-              "description": "[repo]",
+              "description": "XHMY/AutoDefense",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,7 +627,7 @@
             {
               "node_type": "item",
               "title": "\"Baseline Defenses for Adversarial Attacks Against Aligned Language Models\", 2023-09, [paper]",
-              "description": "[repo]",
+              "description": "neelsjain/baseline-defenses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "\"Protecting Your LLMs with Information Bottleneck\", 2024-04, [paper]",
-              "description": "[repo]",
+              "description": "zichuan-liu/IB4LLMs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -669,7 +669,7 @@
             {
               "node_type": "item",
               "title": "\"PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition\", 2024-05, ICML 24, [paper]",
-              "description": "[repo]",
+              "description": "Ed-Zh/PARDEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "\"LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins\", 2023-09, [paper]",
-              "description": "[repo]",
+              "description": "llm-platform-security/chatgpt-plugin-eval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -751,7 +751,7 @@
             "open_issues": 70,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 13,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 682,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T21:54:58Z",
-            "open_issues": 487,
+            "last_commit": "2026-10-02T17:55:55Z",
+            "open_issues": 484,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9408,
+            "stars": 9413,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -978,7 +978,7 @@
             "open_issues": 20,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "ai",
               "ai-fuzzer",
@@ -1166,7 +1166,7 @@
         {
           "node_type": "item",
           "title": "PALLMs (Payloads for Attacking Large Language Models)",
-          "description": null,
+          "description": "mik0w/pallms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1208,7 +1208,7 @@
         {
           "node_type": "item",
           "title": "LLM Security startups",
-          "description": null,
+          "description": "rushout09/llm-security-startups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:29.633Z",
+    "last_updated": "2026-10-03T04:53:18.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
