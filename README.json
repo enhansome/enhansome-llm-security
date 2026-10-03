@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4812,
+                "stars": 4813,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -554,7 +554,7 @@
                 "open_issues": 14,
                 "owner": "GraySwanAI",
                 "repo": "circuit-breakers",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -777,7 +777,7 @@
             "open_issues": 13,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:55:55Z",
-            "open_issues": 484,
+            "open_issues": 487,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9413,
+            "stars": 9414,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 90,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4416,
+            "stars": 4417,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "ai",
               "cybersecurity",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:18.506Z",
+    "last_updated": "2026-10-03T14:24:34.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
