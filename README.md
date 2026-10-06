@@ -106,14 +106,14 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Benchmark
 
-* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 893 | 🐛 73 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
+* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 893 | 🐛 77 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
 * "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 689 | 🐛 13 | 🌐 Python | 📅 2025-04-04
 * "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [\[paper\]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 504 | 🐛 2 | 🌐 Python | 📅 2026-09-27
 * "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [\[paper\]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 9,450 | 🐛 487 | 🌐 Python | 📅 2026-10-02: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,456 | 🐛 488 | 🌐 Python | 📅 2026-10-02: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
 * [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,422 | 🐛 90 | 🌐 Python | 📅 2026-09-29: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
