@@ -29,7 +29,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### White-box attack
 
-* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,828 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
+* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,831 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
 * "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [\[repo\]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) ⭐ 284 | 🐛 23 | 🌐 Python | 📅 2024-05-13
 * "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [\[paper\]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [\[repo\]](https://github.com/XuandongZhao/weak-to-strong) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2025-05-02
 * "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [\[repo\]](https://github.com/euanong/image-hijacks) ⭐ 59 | 🐛 8 | 🌐 Python | 📅 2023-09-19 [\[site\]](https://image-hijacks.github.io)
@@ -44,13 +44,13 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 * "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [\[paper\]](https://www.themoonlight.io/paper/share/2ebb8387-1e7a-4607-a309-fcd46a99d2be) [\[repo\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 608 | 🐛 17 | 🌐 Python | 📅 2026-02-27 [\[site\]](https://github.com/sherdencooper/GPTFuzz) ⭐ 608 | 🐛 17 | 🌐 Python | 📅 2026-02-27
 * "Prompt Injection attack against LLM-integrated Applications", 2023-06, [\[paper\]](https://www.themoonlight.io/paper/share/9f08a762-e3b2-4154-9696-60ade71b1a23) [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 506 | 🐛 2 | 🌐 Python | 📅 2026-09-27
 * "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!", 2023-10, ICLR(oral) 24, [\[paper\]](https://www.themoonlight.io/paper/share/5d78aec9-b6a6-4b02-9104-cca3fedf38fd) [\[repo\]](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ⭐ 360 | 🐛 3 | 🌐 Python | 📅 2024-02-23 [\[site\]](https://llm-tuning-safety.github.io/) [\[dataset\]](https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI)
-* "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs", 2023-08, [\[paper\]](https://www.themoonlight.io/paper/share/b3ed2c03-9cca-4717-bab1-389643641bee) [\[repo\]](https://github.com/Libr-AI/do-not-answer) ⭐ 346 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-07 [\[dataset\]](https://huggingface.co/datasets/LibrAI/do-not-answer)
+* "Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs", 2023-08, [\[paper\]](https://www.themoonlight.io/paper/share/b3ed2c03-9cca-4717-bab1-389643641bee) [\[repo\]](https://github.com/Libr-AI/do-not-answer) ⭐ 347 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-07 [\[dataset\]](https://huggingface.co/datasets/LibrAI/do-not-answer)
 * "DeepInception: Hypnotize Large Language Model to Be Jailbreaker", 2023-11, [\[paper\]](https://www.themoonlight.io/paper/share/c57a3c8c-50a5-4a49-8f99-b1eec1a9b2b1) [\[repo\]](https://github.com/tmlr-group/DeepInception) ⭐ 180 | 🐛 0 | 🌐 Python | 📅 2024-02-20 [\[site\]](https://deepinception.github.io/)
 * "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily", 2023-11, NAACL 24, [\[paper\]](https://www.themoonlight.io/paper/share/fd52e4ff-efb3-471b-abf1-ec689418e0bf) [\[repo\]](https://github.com/NJUNLP/ReNeLLM) ⭐ 165 | 🐛 0 | 🌐 Python | 📅 2025-09-02
 * "An LLM can Fool Itself: A Prompt-Based Adversarial Attack", 2023-10, ICLR(poster) 24, [\[paper\]](https://www.themoonlight.io/paper/share/193ec3b5-78ae-483b-adf5-aa6684919685) [\[repo\]](https://github.com/GodXuxilie/PromptAttack) ⭐ 117 | 🐛 0 | 🌐 Python | 📅 2025-01-21
 * "Multilingual Jailbreak Challenges in Large Language Models", 2023-10, ICLR(poster) 24, [\[paper\]](https://www.themoonlight.io/paper/share/b632c951-861c-4c12-8254-315ef0e074c9) [\[repo\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) ⭐ 106 | 🐛 0 | 📅 2024-03-07
 * "Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models", 2023-07, [\[paper\]](https://www.themoonlight.io/paper/share/4d35806f-3e25-4b28-abb3-2ea94b7246bd) [\[repo\]](https://github.com/qiuhuachuan/latent-jailbreak/tree/main) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-05-21
-* "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [\[paper\]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [\[repo\]](https://github.com/controllability/jailbreak-evaluation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-11-04
+* "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [\[paper\]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [\[repo\]](https://github.com/controllability/jailbreak-evaluation) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-11-04
 * "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy", 2025-03, CVPR 25 [\[paper\]](https://arxiv.org/pdf/2503.20823) [\[repo\]](https://github.com/naver-ai/JOOD) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-06-11
 * "Confidence Elicitation: A New Attack Vector for Large Language Models", 2025-02, ICLR(poster) 25 [\[paper\]](https://www.themoonlight.io/paper/share/156c1cb3-c9ea-443d-9cfc-3f494f711df5) [\[repo\]](https://github.com/Aniloid2/Confidence_Elicitation_Attacks) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-03-04
 * "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection", 2023-02, AISec\@CCS 23 [\[paper\]](https://www.themoonlight.io/paper/share/8e338d56-34fc-411f-8f5f-2746997d7927)
@@ -106,25 +106,25 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Benchmark
 
-* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 912 | 🐛 80 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
+* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 915 | 🐛 80 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
 * "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 687 | 🐛 14 | 🌐 Python | 📅 2025-04-04
 * "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [\[paper\]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 506 | 🐛 2 | 🌐 Python | 📅 2026-09-27
 * "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [\[paper\]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 9,540 | 🐛 487 | 🌐 Python | 📅 2026-10-10: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,427 | 🐛 90 | 🌐 Python | 📅 2026-10-12: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 9,555 | 🐛 492 | 🌐 Python | 📅 2026-10-10: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,429 | 🐛 90 | 🌐 Python | 📅 2026-10-12: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
-* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,058 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,059 | 🐛 15 | 🌐 Python | 📅 2025-11-27: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 * [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) ⭐ 717 | 🐛 20 | 🌐 Python | 📅 2026-08-19: the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 * [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 506 | 🐛 16 | 🌐 Python | 📅 2024-01-31: a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 * [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 506 | 🐛 2 | 🌐 Python | 📅 2026-09-27: open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
-* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 383 | 🐛 3 | 🌐 Python | 📅 2024-02-12: a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
+* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 384 | 🐛 3 | 🌐 Python | 📅 2024-02-12: a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
 * [WhistleBlower](https://github.com/Repello-AI/whistleblower) ⭐ 179 | 🐛 13 | 🌐 Python | 📅 2025-10-31: open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
-* [Plexiglass](https://github.com/kortex-labs/plexiglass) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2026-02-04: a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
-* [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-11-04: an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
+* [Plexiglass](https://github.com/kortex-labs/plexiglass) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2026-02-04: a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
+* [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-11-04: an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
 * [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 
 ## Articles
@@ -175,4 +175,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

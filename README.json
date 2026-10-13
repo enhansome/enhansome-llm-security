@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4828,
+                "stars": 4831,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -378,7 +378,7 @@
                 "open_issues": 0,
                 "owner": "controllability",
                 "repo": "jailbreak-evaluation",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -751,7 +751,7 @@
             "open_issues": 80,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 912,
+            "stars": 915,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T14:37:58Z",
-            "open_issues": 487,
+            "open_issues": 492,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9540,
+            "stars": 9555,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 90,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4427,
+            "stars": 4429,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1067,7 +1067,7 @@
             "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "ai",
               "cybersecurity",
@@ -1123,7 +1123,7 @@
             "open_issues": 0,
             "owner": "w4-advisory",
             "repo": "plexiglass",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "adversarial-attacks",
               "adversarial-machine-learning",
@@ -1152,7 +1152,7 @@
             "open_issues": 0,
             "owner": "controllability",
             "repo": "jailbreak-evaluation",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:17:16.530Z",
+    "last_updated": "2026-10-13T17:06:35.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 248,
+      "open_issues": 251,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1710,
+      "stars": 1711,
       "topics": [
         "awesome",
         "awesome-list",
