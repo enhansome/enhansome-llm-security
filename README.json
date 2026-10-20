@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 483,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -751,7 +751,7 @@
             "open_issues": 80,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 937,
+            "stars": 944,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 687,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T20:15:19Z",
-            "open_issues": 501,
+            "open_issues": 506,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9616,
+            "stars": 9628,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 88,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4440,
+            "stars": 4443,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:37:01.357Z",
+    "last_updated": "2026-10-20T14:27:57.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 259,
+      "open_issues": 262,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1712,
