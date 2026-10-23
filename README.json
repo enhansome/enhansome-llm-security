@@ -112,7 +112,7 @@
                 "open_issues": 27,
                 "owner": "vec2text",
                 "repo": "vec2text",
-                "stars": 1148,
+                "stars": 1146,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -159,7 +159,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-27T17:19:03Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
                 "stars": 608,
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 350,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -497,7 +497,7 @@
                 "open_issues": 5,
                 "owner": "cnut1648",
                 "repo": "Model-Fingerprint",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 952,
+            "stars": 954,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T21:37:42Z",
-            "open_issues": 506,
+            "last_commit": "2026-10-23T14:20:37Z",
+            "open_issues": 510,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9650,
+            "stars": 9675,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 89,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4444,
+            "stars": 4443,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -995,6 +995,36 @@
         },
         {
           "node_type": "item",
+          "title": "Vigil",
+          "description": "a LLM prompt injection detection toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs",
+            "homepage": "https://vigil.deadbits.ai/",
+            "id": 687122549,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2024-01-31T18:43:41Z",
+            "open_issues": 16,
+            "owner": "deadbits",
+            "repo": "vigil-llm",
+            "stars": 509,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-machine-learning",
+              "large-language-models",
+              "llm-security",
+              "llmops",
+              "prompt-injection",
+              "security-tools",
+              "yara-scanner"
+            ]
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
+        },
+        {
+          "node_type": "item",
           "title": "Open-Prompt-Injection",
           "description": "open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets.",
           "children": [],
@@ -1017,36 +1047,6 @@
               "prompt-injection",
               "prompt-injection-tool",
               "security-and-privacy"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:04.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vigil",
-          "description": "a LLM prompt injection detection toolkit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs",
-            "homepage": "https://vigil.deadbits.ai/",
-            "id": 687122549,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2024-01-31T18:43:41Z",
-            "open_issues": 16,
-            "owner": "deadbits",
-            "repo": "vigil-llm",
-            "stars": 507,
-            "topics": [
-              "adversarial-attacks",
-              "adversarial-machine-learning",
-              "large-language-models",
-              "llm-security",
-              "llmops",
-              "prompt-injection",
-              "security-tools",
-              "yara-scanner"
             ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:38:06.691Z",
+    "last_updated": "2026-10-23T14:24:07.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1251,7 +1251,7 @@
       "open_issues": 264,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1712,
+      "stars": 1713,
       "topics": [
         "awesome",
         "awesome-list",
