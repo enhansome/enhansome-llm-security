@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4842,
+                "stars": 4844,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 954,
+            "stars": 956,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 12,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 686,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -832,7 +832,7 @@
             "open_issues": 512,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9681,
+            "stars": 9694,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 89,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4445,
+            "stars": 4447,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -880,7 +880,7 @@
             "open_issues": 38,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3219,
+            "stars": 3218,
             "topics": [
               "adversarial-machine-learning",
               "chatgpt",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:34:04.423Z",
+    "last_updated": "2026-10-25T13:53:47.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 266,
+      "open_issues": 267,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1714,
