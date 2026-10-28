@@ -42,7 +42,7 @@
                 "open_issues": 23,
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -183,7 +183,7 @@
                 "open_issues": 2,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 509,
+                "stars": 510,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 490,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 90,
+            "open_issues": 89,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 959,
+            "stars": 962,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -798,7 +798,7 @@
             "open_issues": 2,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "llm",
               "llm-security",
@@ -828,11 +828,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T14:24:38Z",
-            "open_issues": 513,
+            "last_commit": "2026-10-27T18:16:24Z",
+            "open_issues": 517,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9723,
+            "stars": 9742,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 90,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4448,
+            "stars": 4449,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -877,7 +877,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
-            "open_issues": 38,
+            "open_issues": 37,
             "owner": "protectai",
             "repo": "llm-guard",
             "stars": 3219,
@@ -912,7 +912,7 @@
             "open_issues": 32,
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1532,
+            "stars": 1531,
             "topics": [
               "llm",
               "llmops",
@@ -940,7 +940,7 @@
             "open_issues": 14,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -995,6 +995,34 @@
         },
         {
           "node_type": "item",
+          "title": "Open-Prompt-Injection",
+          "description": "open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
+            "homepage": null,
+            "id": 707020503,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-27T14:35:14Z",
+            "open_issues": 2,
+            "owner": "liu00222",
+            "repo": "Open-Prompt-Injection",
+            "stars": 510,
+            "topics": [
+              "llm",
+              "llm-security",
+              "llms",
+              "prompt-injection",
+              "prompt-injection-tool",
+              "security-and-privacy"
+            ]
+          },
+          "first_seen": "2026-08-28T20:59:04.627Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vigil",
           "description": "a LLM prompt injection detection toolkit",
           "children": [],
@@ -1019,34 +1047,6 @@
               "prompt-injection",
               "security-tools",
               "yara-scanner"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:04.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Open-Prompt-Injection",
-          "description": "open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
-            "homepage": null,
-            "id": 707020503,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-27T14:35:14Z",
-            "open_issues": 2,
-            "owner": "liu00222",
-            "repo": "Open-Prompt-Injection",
-            "stars": 509,
-            "topics": [
-              "llm",
-              "llm-security",
-              "llms",
-              "prompt-injection",
-              "prompt-injection-tool",
-              "security-and-privacy"
             ]
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:31:13.180Z",
+    "last_updated": "2026-10-28T16:14:54.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 270,
+      "open_issues": 274,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1715,
+      "stars": 1716,
       "topics": [
         "awesome",
         "awesome-list",
