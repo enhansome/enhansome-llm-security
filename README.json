@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4849,
+                "stars": 4850,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -133,7 +133,7 @@
                 "open_issues": 0,
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 630,
+                "stars": 629,
                 "topics": [
                   "alignment",
                   "chatgpt",
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 491,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -518,7 +518,7 @@
                 "open_issues": 0,
                 "owner": "parameterlab",
                 "repo": "trap",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "acl2024",
                   "adversarial-attacks",
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 964,
+            "stars": 970,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T18:16:24Z",
-            "open_issues": 521,
+            "open_issues": 524,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9768,
+            "stars": 9793,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 90,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4450,
+            "stars": 4452,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -880,7 +880,7 @@
             "open_issues": 37,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3219,
+            "stars": 3220,
             "topics": [
               "adversarial-machine-learning",
               "chatgpt",
@@ -940,7 +940,7 @@
             "open_issues": 14,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -1067,7 +1067,7 @@
             "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "ai",
               "cybersecurity",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:23:34.003Z",
+    "last_updated": "2026-10-30T16:11:53.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 277,
+      "open_issues": 279,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1715,
