@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4855,
+                "stars": 4856,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -183,7 +183,7 @@
                 "open_issues": 2,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 1008,
+            "stars": 1016,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 13,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 696,
+            "stars": 695,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -798,7 +798,7 @@
             "open_issues": 2,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "llm",
               "llm-security",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T23:26:29Z",
-            "open_issues": 562,
+            "open_issues": 565,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9967,
+            "stars": 9983,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 95,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4470,
+            "stars": 4472,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1009,7 +1009,7 @@
             "open_issues": 2,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "llm",
               "llm-security",
@@ -1067,7 +1067,7 @@
             "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "ai",
               "cybersecurity",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:01:07.256Z",
+    "last_updated": "2026-11-10T17:15:21.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
