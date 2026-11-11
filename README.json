@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4856,
+                "stars": 4858,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -133,7 +133,7 @@
                 "open_issues": 0,
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "alignment",
                   "chatgpt",
@@ -162,7 +162,7 @@
                 "open_issues": 18,
                 "owner": "hubertyoo",
                 "repo": "GPTFuzz",
-                "stars": 608,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -211,7 +211,7 @@
                 "open_issues": 3,
                 "owner": "LLM-Tuning-Safety",
                 "repo": "LLMs-Finetuning-Safety",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "alignment",
                   "llm",
@@ -331,7 +331,7 @@
                 "open_issues": 0,
                 "owner": "DAMO-NLP-SG",
                 "repo": "multilingual-safety-for-LLMs",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "jailbreak",
                   "llm",
@@ -476,7 +476,7 @@
                 "open_issues": 6,
                 "owner": "pasquini-dario",
                 "repo": "LLMmap",
-                "stars": 502,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -518,7 +518,7 @@
                 "open_issues": 0,
                 "owner": "parameterlab",
                 "repo": "trap",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "acl2024",
                   "adversarial-attacks",
@@ -748,10 +748,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-02T10:01:31Z",
-            "open_issues": 105,
+            "open_issues": 107,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 1016,
+            "stars": 1019,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -777,7 +777,7 @@
             "open_issues": 13,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 695,
+            "stars": 697,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T23:26:29Z",
-            "open_issues": 565,
+            "open_issues": 568,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9983,
+            "stars": 9992,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 95,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4472,
+            "stars": 4475,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -880,7 +880,7 @@
             "open_issues": 37,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3218,
+            "stars": 3219,
             "topics": [
               "adversarial-machine-learning",
               "chatgpt",
@@ -1037,7 +1037,7 @@
             "open_issues": 16,
             "owner": "deadbits",
             "repo": "vigil-llm",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "adversarial-attacks",
               "adversarial-machine-learning",
@@ -1093,7 +1093,7 @@
             "open_issues": 13,
             "owner": "Repello-AI",
             "repo": "whistleblower",
-            "stars": 182,
+            "stars": 181,
             "topics": [
               "ai-red-teaming",
               "ai-security",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:15:21.553Z",
+    "last_updated": "2026-11-11T17:25:23.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
