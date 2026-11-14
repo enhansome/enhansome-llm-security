@@ -751,7 +751,7 @@
             "open_issues": 109,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 1027,
+            "stars": 1033,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T23:26:29Z",
-            "open_issues": 578,
+            "open_issues": 582,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 10011,
+            "stars": 10021,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -978,7 +978,7 @@
             "open_issues": 19,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "ai",
               "ai-fuzzer",
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:21:32.507Z",
+    "last_updated": "2026-11-14T16:03:45.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,10 +1248,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 298,
+      "open_issues": 304,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
-      "stars": 1721,
+      "stars": 1722,
       "topics": [
         "awesome",
         "awesome-list",
