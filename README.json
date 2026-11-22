@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4869,
+                "stars": 4871,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -751,7 +751,7 @@
             "open_issues": 114,
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 1062,
+            "stars": 1065,
             "topics": [
               "benchmark",
               "large-language-models",
@@ -829,10 +829,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T20:16:15Z",
-            "open_issues": 608,
+            "open_issues": 615,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 10123,
+            "stars": 10131,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 99,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4487,
+            "stars": 4488,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1179,7 +1179,7 @@
             "open_issues": 0,
             "owner": "mik0w",
             "repo": "pallms",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:55:39.272Z",
+    "last_updated": "2026-11-22T17:21:34.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
@@ -1248,7 +1248,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-20T01:27:47Z",
-      "open_issues": 313,
+      "open_issues": 314,
       "owner": "corca-ai",
       "repo": "awesome-llm-security",
       "stars": 1722,

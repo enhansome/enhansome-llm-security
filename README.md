@@ -29,7 +29,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ### White-box attack
 
-* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,869 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
+* "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [\[paper\]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [\[repo\]](https://github.com/llm-attacks/llm-attacks) ⭐ 4,871 | 🐛 69 | 🌐 Python | 📅 2024-08-02 [\[page\]](https://llm-attacks.org/)
 * "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [\[repo\]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) ⭐ 288 | 🐛 23 | 🌐 Python | 📅 2024-05-13
 * "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [\[paper\]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [\[repo\]](https://github.com/XuandongZhao/weak-to-strong) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2025-05-02
 * "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [\[paper\]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [\[repo\]](https://github.com/euanong/image-hijacks) ⭐ 59 | 🐛 8 | 🌐 Python | 📅 2023-09-19 [\[site\]](https://image-hijacks.github.io)
@@ -106,15 +106,15 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Benchmark
 
-* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 1,062 | 🐛 114 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
+* "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [\[paper\]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [\[repo\]](https://github.com/ethz-spylab/agentdojo) ⭐ 1,065 | 🐛 114 | 🌐 Python | 📅 2026-06-02 [\[site\]](https://agentdojo.spylab.ai/)
 * "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [\[paper\]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [\[repo\]](https://github.com/JailbreakBench/jailbreakbench) ⭐ 700 | 🐛 13 | 🌐 Python | 📅 2025-04-04
 * "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [\[paper\]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [\[repo\]](https://github.com/liu00222/Open-Prompt-Injection) ⭐ 517 | 🐛 2 | 🌐 Python | 📅 2026-09-27
 * "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [\[paper\]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
 
-* [Garak](https://github.com/leondz/garak/) ⭐ 10,123 | 🐛 608 | 🌐 Python | 📅 2026-11-18: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,487 | 🐛 99 | 🌐 Python | 📅 2026-11-20: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
+* [Garak](https://github.com/leondz/garak/) ⭐ 10,131 | 🐛 615 | 🌐 Python | 📅 2026-11-18: a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ⭐ 4,488 | 🐛 99 | 🌐 Python | 📅 2026-11-20: set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 * [LLM Guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived: a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived: a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,072 | 🐛 14 | 🌐 Python | 📅 2026-11-13: Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
@@ -146,7 +146,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Awesome Projects
 
-* [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms) ⭐ 149 | 🐛 0 | 📅 2026-01-13
+* [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms) ⭐ 148 | 🐛 0 | 📅 2026-01-13
 * [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta) ⭐ 127 | 🐛 0 | 🌐 C | 📅 2023-06-09: the world's top security competition
 * [LLM Security startups](https://github.com/rushout09/llm-security-startups) ⭐ 15 | 🐛 3 | 📅 2024-11-09
 * (0din GenAI Bug Bounty from Mozilla)(<https://0din.ai>): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
@@ -175,4 +175,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
