@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "llm-attacks",
                 "repo": "llm-attacks",
-                "stars": 4872,
+                "stars": 4874,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:04.627Z"
@@ -183,7 +183,7 @@
                 "open_issues": 2,
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "llm",
                   "llm-security",
@@ -211,7 +211,7 @@
                 "open_issues": 3,
                 "owner": "LLM-Tuning-Safety",
                 "repo": "LLMs-Finetuning-Safety",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "alignment",
                   "llm",
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "\"Rethinking How to Evaluate Language Model Jailbreak\", 2024-04, [paper]",
-              "description": "controllability/jailbreak-evaluation",
+              "description": "archive-controllability/jailbreak-evaluation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2024-11-04T16:07:47Z",
                 "open_issues": 0,
-                "owner": "controllability",
+                "owner": "archive-controllability",
                 "repo": "jailbreak-evaluation",
                 "stars": 28,
                 "topics": []
@@ -777,7 +777,7 @@
             "open_issues": 13,
             "owner": "JailbreakBench",
             "repo": "jailbreakbench",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -798,7 +798,7 @@
             "open_issues": 2,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 518,
+            "stars": 517,
             "topics": [
               "llm",
               "llm-security",
@@ -832,7 +832,7 @@
             "open_issues": 621,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 10210,
+            "stars": 10216,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -859,7 +859,7 @@
             "open_issues": 99,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4497,
+            "stars": 4498,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.627Z"
@@ -940,7 +940,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -978,7 +978,7 @@
             "open_issues": 19,
             "owner": "prompt-security",
             "repo": "ps-fuzz",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "ai",
               "ai-fuzzer",
@@ -1009,7 +1009,7 @@
             "open_issues": 2,
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 518,
+            "stars": 517,
             "topics": [
               "llm",
               "llm-security",
@@ -1150,7 +1150,7 @@
             "license": "Apache-2.0",
             "last_commit": "2024-11-04T16:07:47Z",
             "open_issues": 0,
-            "owner": "controllability",
+            "owner": "archive-controllability",
             "repo": "jailbreak-evaluation",
             "stars": 28,
             "topics": []
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:09:09.032Z",
+    "last_updated": "2026-11-28T17:46:52.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
